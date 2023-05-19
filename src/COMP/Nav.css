@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    display: flex;
+    height: 7vh;
+    width: 100vw;
+    background-color: black;
+  justify-content: end;
+  /* position: fixed; */
+}
+.con1{
+    margin-top: 11px;
+    margin-left: 3vw;
+   width: 50vw;
+}
+.name a{
+    text-decoration: none;
+    color: red;
+    font-family: 'Mogra', cursive;
+    font-size: 24pt;
+}
+.con2{
+   margin-top: 5px;
+   margin-right: 2vw;
+    display: flex;
+justify-content: end;
+    width: 50vw;
+}
+.cs a{
+    text-decoration: none;
+    color: red;
+    font-size: 24pt;
+    font-family: 'Mogra', cursive
+}
+.cs{
+    margin: 5px;
+}
+

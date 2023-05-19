@@ -1,0 +1,516 @@
+
+.contt{
+    display: flex;
+    margin-right: 0;
+    height: 93vh;
+    width: 100vw;
+    background-image: url("https://wallpaperaccess.com/full/785668.jpg");
+    justify-content: space-between;
+}
+.contt1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 31vh;
+    margin-left: 14vw;
+    
+}
+.n{
+     font-family: 'Lobster', cursive;;
+    font-size: 56pt;
+    color: rgb(231, 26, 26);
+}
+.ty{
+    font-family: 'Dancing Script', cursive;
+    font-size: 33pt;
+    color: rgb(144, 19, 19);
+
+}
+.contt2{
+    padding-left: 2vh;
+    margin-right: 0;
+    width: 40vw;
+display: flex;
+justify-content: end;
+}
+.image{
+    margin-top: 23vh;
+    margin-right: 8vw;
+    background-image: url("./porfolio.jpg");
+    border-radius: 250px;
+    width: 258px;
+    height: 266px;
+}
+.skills{
+    display: flex;
+     background-image: url("https://cdn.wallpapersafari.com/77/25/TIJyW2.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+    flex-direction: column;
+    height: 300vh;
+    width: 100vw;
+}
+.nsk{
+    
+    color: rgb(255, 21, 21);
+    font-weight: bolder;
+    font-size: 8vh;
+    margin-top: 7vh;
+    margin-left: 11vw;
+    font-family: 'Playfair Display', serif;
+}
+.gpl{
+    margin-top: 14vh;
+    margin-left: 4vw;
+    margin-right: 14vw;
+    margin-bottom: 4vh;
+    border-radius: 2rem;
+    height: 7vh;
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&ext=jpg");
+}
+.gps{
+    color: rgb(252, 33, 33);
+    margin-top: 1vh;
+    margin-left: 4vw;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.c{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.c a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.imc{
+    background-image: url("./c.png");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+    box-shadow: 0 1px 6px rgba(35, 5, 167, 0.12), 0 1px 10px rgba(253, 11, 11, 0.979);
+    transform: rotateY(30deg) rotateX(30deg);
+    -webkit-transform: rotateY(30deg) rotateX(30deg);
+    transition: 0.5s;
+   }
+   .kp:hover {   
+    -webkit-transform: rotateY(0deg) rotateX(0deg);
+        transform: rotateY(0deg) rotateX(0deg);
+    }
+    .kp{
+        box-shadow: 0 1px 6px rgba(35, 5, 167, 0.12), 0 1px 10px rgba(253, 11, 11, 0.979);
+    transform: rotateY(30deg) rotateX(30deg);
+    -webkit-transform: rotateY(30deg) rotateX(30deg);
+    transition: 1s;
+    }
+    .kpl:hover {   
+        -webkit-transform: rotateY(0deg) rotateX(0deg);
+            transform: rotateY(0deg) rotateX(0deg);
+        }
+        .kpl{
+            box-shadow: 0 1px 6px rgba(35, 5, 167, 0.12), 0 1px 19px rgba(253, 11, 11, 0.979);
+        transform: rotateY(-30deg) rotateX(20deg);
+        -webkit-transform: rotateY(-30deg) rotateX(20deg);
+        transition: 1s;
+        }
+        .lpo:hover {   
+            -webkit-transform: rotateY(0deg) rotateX(0deg);
+                transform: rotateY(0deg) rotateX(0deg);
+            }
+            .lpo{
+                box-shadow: 0 1px 6px rgba(35, 5, 167, 0.12), 0 1px 100px rgba(85, 0, 255, 0.979);
+            transform: rotateY(-30deg) rotateX(20deg);
+            -webkit-transform: rotateY(-30deg) rotateX(20deg);
+            transition: 1s;
+            }
+.gp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cp{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.cp a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.imcp{
+    background-image: url("./c++.jpg");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+}
+.ht{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.ht a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.hti{
+    background-image: url("./html.png");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+}
+.csss{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.csss a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.cssi{
+    background-image: url("./CSS3_logo.svg.png");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+}
+.ja{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.ja a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.jai{
+    background-image: url("./js.jpg");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+}
+.gittt{
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    width:144px ;
+    align-items: center;
+}
+.gittt a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.giti{
+    background-image: url("./download.png");
+    height: 146px;
+    width: 144px;
+    border-radius: 2rem;
+}
+.data{
+    margin-top: 5vh;
+    margin-left: 14vw;
+    margin-right: 4vw;
+    display: flex;
+    justify-content: end;
+    border-radius: 2rem;
+    height: 7vh;
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&ext=jpg");
+}
+
+.data .dat{
+    margin-right: 4vw;
+    color: rgb(252, 33, 33);
+    margin-top: 1vh;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.mysq{
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: row-reverse;
+    /* justify-content: center; */
+    align-items: center;
+    /* height:30vh ; */
+}
+.mysq .imsq{
+    background-image:url("./images.png");
+    height: 147px;
+    width: 348px;
+    margin-right: 7vw;
+    border-radius: 2rem;
+}
+.nsq{
+    margin-top: 9vh;
+margin-right: 5vw;
+}
+.nsq a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.myp{
+    margin-left: 2vw;
+    margin-right: 23vw;
+    width: 30vw;
+    font-size: 14pt;
+    color: aqua;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.cou{
+    margin-left: 4vw;
+    margin-top: 9vh;
+    margin-right: 14vw;
+    border-radius: 2rem;
+    height: 7vh;
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&ext=jpg");
+}
+.pop{
+    margin-left: 4vw;
+    color: rgb(252, 33, 33);
+    margin-top: 1vh;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.cour{
+    margin-top: 5vh;
+    display: flex;
+    height: 50vh;
+}
+.imco{
+    background-image: url("./dsa.jpg");
+    margin-left: 5vw;
+    height: 300px;
+    width: 400px;
+    border-radius: 2rem;
+}
+.nco{
+margin-left: 5vw;
+margin-top: 22vh;
+}
+.nco a{
+    text-decoration: none;
+    color: rgb(223, 234, 67);
+}
+.pc{
+    
+    margin-left: 5vw;
+    height: 300px;
+    width: 800px;
+    font-size: 14pt;
+    color: aqua;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.tools{
+    margin-top: 9vh;
+    display: flex;
+    justify-content: end;
+    margin-right: 3vw;
+    margin-left: 14vw;
+    border-radius: 2rem;
+    height: 7vh;
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&ext=jpg");
+}
+.tyu{
+    margin-right: 4vw;
+    color: rgb(252, 33, 33);
+    margin-top: 1vh;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.mega{
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mega img{
+   height: 50vh;
+   width: 54vw;
+   border-radius: 2rem;
+}
+.mega .btn{
+    margin-top: 5vh;
+    background-color: rgb(237, 6, 6);
+    color: rgb(0, 0, 0);
+width: 15vw;
+height: 5vh;
+font-size:19pt ;
+border-radius: 20rem;
+font-family: 'Dancing Script', cursive;
+    
+}
+.tttt :hover{
+    color: rgb(231, 47, 26);
+    font-weight: bold;
+    background-color: black;
+    text-shadow: 0 0 10px purple;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.cme{
+    display: flex;
+    flex-direction: column;
+    height: 150vh;
+    width: 100vw;
+    background-image: url("https://wallpapercave.com/wp/wp5524635.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.sizw{
+    margin-top: 20vh;
+}
+.cnme{
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    height: 10vh;
+    font-size: 4vh;
+    font-family: 'lobster','cursive';
+    color: rgb(255, 30, 0);
+}
+
+.forms{
+    display: flex;
+}
+.icons{
+    margin-top: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 10vw;
+    width: 40vw;
+    height: 90vh;
+}
+.insta{
+    width: 140px;
+    height: 113px;
+    background-image: url("./alexander-shatov-71Qk8ODIBko-unsplash\ \(1\).jpg");
+    border-radius: 11114rem;
+}
+.ln{
+    width: 140px;
+    margin-top: 4vh;
+    height: 113px;
+    background-image: url("./img1.jpg");
+    border-radius: 11114rem;
+}
+.gtb{
+    width: 140px;
+    margin-top: 4vh;
+    height: 113px;
+    background-image: url("./GitHub-3D-Logo-Featured-Image.jpg");
+    border-radius: 11114rem;
+}
+.email{
+    display: flex;
+    width: 60vw;
+    margin-left: 19vw;
+    height: 90vh;
+   justify-content: center;
+   align-items: center;
+}
+.emk{
+    margin-top: 20vh;
+    margin-bottom: 3vh;
+    text-decoration: none;
+}
+.email1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+     h3{
+        margin-left: 20vw;
+    font-size: 18pt;
+    font-family: 'Playfair Display', serif;
+    color: rgb(224, 224, 242);
+    font-weight: bolder;
+}
+input[type=text]{
+    color: blueviolet;
+    border-radius: 1rem;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 2vh;
+    width: 40vw;
+    height: 4vh;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=text]:hover{
+    background-color: black;
+}
+input[type=email]{
+    color: blueviolet;
+    border-radius: 1rem;
+    font-family: 'Playfair Display', serif;
+    width: 40vw;
+    margin-bottom: 2vh;
+    height: 4vh;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=email]:hover{
+    background-color: black;
+}
+input[type=range]{
+    width: 40vw;
+    height: 3vh;
+}
+h4{
+    color: azure;
+    margin-left: 20vw;
+    font-family: 'Playfair Display', serif;
+    height: 4vh;
+    font-size: 26pt;
+    font-size: 16pt;
+    font-weight: bolder;
+    
+}
+textarea{
+    color: blueviolet;
+    border-radius: 1rem;
+    height: 24vh;
+    width: 40vw;
+    font-family: 'Playfair Display', serif;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=radio]{
+    margin-left: 30vw;
+}
+textarea:hover{
+    background-color: black;
+}
+input[type=submit], input[type=reset]{
+    border-radius: 1rem;
+    font-weight: bold;
+    font-size: 16pt;
+    margin: 1vh;
+    margin-left: 10vw;
+    font-family: 'Dancing Script', cursive;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(3, 3, 44);
+    background-color: rgb(231, 78, 17);
+}
+input[type=reset]:hover{
+    color: red;
+    background-color: black;
+    
+    font-weight: bolder;
+}
+input[type=submit]:hover{
+    color: red;
+    background-color: black;
+    font-weight: bolder;
+}
